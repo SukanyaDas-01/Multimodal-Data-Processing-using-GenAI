@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🌟 Multimodal Data Processing using GenAI
 
 ### 🚀 Grow with Guntur – Batch 3 | Internship Assessment Project  
