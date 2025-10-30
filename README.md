@@ -185,9 +185,9 @@ data/
 ## 🧑‍💻 Author
 
 **👩‍💻 Sukanya Das**
-💼 Internship Candidate — Coastal Seven Consulting
-📧 sukanyadas1211@gmail.com
-🔗 https://www.linkedin.com/in/sukanya-das-a05935244/
+* 💼 Internship Candidate — Coastal Seven Consulting
+* 📧 sukanyadas1211@gmail.com
+* 🔗 https://www.linkedin.com/in/sukanya-das-a05935244/
 
 ---
 
